@@ -1,0 +1,4 @@
+# MvpProject
+根据个人理解实现的mvp项目模版
+简单封装retrofit okhttp网络请求
+rxjava的简单使用，主要用于配合retrofit的网络访问
